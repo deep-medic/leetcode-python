@@ -31,7 +31,7 @@ class Solution:
         if total == 0:
             return ListNode(0)
         
-        dummy = ListNode(0)
+        dummy = ListNode(None)
         cur = dummy
 
         while total > 0:
