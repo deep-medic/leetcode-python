@@ -4,4 +4,4 @@ leetcode-python
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Two Sum (#1) | LeetCode | Array, Hash Table | Complement lookup, One-pass hash | Easy | O(n) / O(n) | ✅ | 2025-10-01 | Key for Complement, Retrive with current| `two_sum.py` |
 | 2 | Add Two Numbers (#2) | LeetCode | Linked List | Math, Reverse | Medium | O(n) / O (n) | ✅ | 2025-10-01 | %= //= for reverse digits | `add_two_numbers.py` |
-| 3 | Longest Substring Without Repeating Characters (#3) | LeetCode | Hash | Two Pointer, sliding windows | Medium | O(n) / O(n) | ✅ | 2025-10-02 | for for pointer, max for start | `l_s_w_r_c.py`  |
+| 3 | Longest Substring Without Repeating Characters (#3) | LeetCode | Hash table, String | Sliding Window with HashMap | Medium | O(n) / O(n) | ✅ | 2025-10-02 | for for pointer, max for start | `l_s_w_r_c.py`  |
