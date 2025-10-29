@@ -19,4 +19,17 @@ leetcode-python
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/deep-medic/leetcode-python/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/deep-medic/leetcode-python/tree/master/1013-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/deep-medic/leetcode-python/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/deep-medic/leetcode-python/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/deep-medic/leetcode-python/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
