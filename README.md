@@ -8,3 +8,15 @@ leetcode-python
 | 1488 | Avoid Flood in The City (#1488) | LeetCode | Hash table | bisect, greedy  | Medium | O(logn * n) / O(n) | ✅ | 2025-10-07 | read scheduling | `a_f_i_t_c.py`  |
 | 2598 | Smallest Missing Integer (#2598) | LeetCode | Hash Table, Math | modulo, counter | Medium | O(n) / O(k) | ✅ | 2025-10-16 | modulo grouping | `smallest_integer.py` |
 | 3147 | Maximum Energy (#3147) | LeetCode | DP | suffix sum, iteration | Medium | O(n) / O(1) | ✅ | 2025-10-16 | fixed step sum | `maximum_energy.py` |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/deep-medic/leetcode-python/tree/master/0747-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/deep-medic/leetcode-python/tree/master/0747-min-cost-climbing-stairs) |
+<!---LeetCode Topics End-->
